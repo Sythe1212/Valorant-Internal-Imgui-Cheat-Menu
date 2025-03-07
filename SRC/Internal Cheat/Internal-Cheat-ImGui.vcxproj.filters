@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="Render.cpp">
+      <Filter>hook</Filter>
+    </ClCompile>
+    <ClCompile Include="minhook\src\buffer.c">
+      <Filter>minhook</Filter>
+    </ClCompile>
+    <ClCompile Include="minhook\src\hde\hde32.c">
+      <Filter>minhook</Filter>
+    </ClCompile>
+    <ClCompile Include="minhook\src\hde\hde64.c">
+      <Filter>minhook</Filter>
+    </ClCompile>
+    <ClCompile Include="minhook\src\hook.c">
+      <Filter>minhook</Filter>
+    </ClCompile>
+    <ClCompile Include="minhook\src\trampoline.c">
+      <Filter>minhook</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_draw.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_impl_dx11.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="scanner.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="Visuals.cpp">
+      <Filter>features\Visuals</Filter>
+    </ClCompile>
+    <ClCompile Include="exploits.cpp">
+      <Filter>features\exploits</Filter>
+    </ClCompile>
+    <ClCompile Include="aimbot.cpp">
+      <Filter>features\aimbot</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="etc">
+      <UniqueIdentifier>{80ac2dbb-1fc1-4f9b-9120-5b2502b4c70a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utilities">
+      <UniqueIdentifier>{90764d3a-27e3-400c-af0a-7c2d330aa3e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="hook">
+      <UniqueIdentifier>{0cba1499-49a7-4f37-8a5d-4e2171871cbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="minhook">
+      <UniqueIdentifier>{bfb66de1-a665-4824-a036-7bf9c156da82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ImGui">
+      <UniqueIdentifier>{cdb13461-efae-4c78-bcdc-af69d9329011}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="features">
+      <UniqueIdentifier>{4825bb16-8c04-419f-9550-dd71b34af993}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="features\Visuals">
+      <UniqueIdentifier>{0c8e446e-a39e-4180-9886-4637b4d013bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameSDK">
+      <UniqueIdentifier>{f4f917ba-1719-4f25-a4ca-283bb6e4824d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="features\exploits">
+      <UniqueIdentifier>{f52f1510-f74a-426b-973c-7ee3186a430f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="features\aimbot">
+      <UniqueIdentifier>{c8b08760-779a-4894-816a-02fa5b07b5b3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="etc.h">
+      <Filter>etc</Filter>
+    </ClInclude>
+    <ClInclude Include="Vectors.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="winternl.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Render.h">
+      <Filter>hook</Filter>
+    </ClInclude>
+    <ClInclude Include="minhook\src\buffer.h">
+      <Filter>minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="minhook\src\hde\hde32.h">
+      <Filter>minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="minhook\src\hde\hde64.h">
+      <Filter>minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="minhook\src\hde\pstdint.h">
+      <Filter>minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="minhook\src\hde\table32.h">
+      <Filter>minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="minhook\src\hde\table64.h">
+      <Filter>minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="minhook\src\trampoline.h">
+      <Filter>minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="minhook\include\MinHook.h">
+      <Filter>minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imconfig.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui_impl_dx11.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui_internal.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\stb_rect_pack.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\stb_textedit.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\stb_truetype.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="features.h">
+      <Filter>features</Filter>
+    </ClInclude>
+    <ClInclude Include="scanner.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Visuals.h">
+      <Filter>features\Visuals</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSDK.h">
+      <Filter>GameSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="exploits.h">
+      <Filter>features\exploits</Filter>
+    </ClInclude>
+    <ClInclude Include="aimbot.h">
+      <Filter>features\aimbot</Filter>
+    </ClInclude>
+    <ClInclude Include="SafeMem.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="VisualsHelper.h">
+      <Filter>features\Visuals</Filter>
+    </ClInclude>
+    <ClInclude Include="il2cpp.h">
+      <Filter>GameSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="no_crt.h">
+      <Filter>GameSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="imp.h">
+      <Filter>etc</Filter>
+    </ClInclude>
+    <ClInclude Include="sdk.h">
+      <Filter>GameSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="rust.h">
+      <Filter>GameSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="unity.h">
+      <Filter>GameSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="detours.h">
+      <Filter>etc</Filter>
+    </ClInclude>
+    <ClInclude Include="miscfuncs.h">
+      <Filter>features</Filter>
+    </ClInclude>
+    <ClInclude Include="hooks.hpp">
+      <Filter>minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="espp.h">
+      <Filter>features\Visuals</Filter>
+    </ClInclude>
+    <ClInclude Include="MiscFucker.h">
+      <Filter>features\Visuals</Filter>
+    </ClInclude>
+    <ClInclude Include="OURTODOLIST.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="imgui\LICENSE.txt">
+      <Filter>ImGui</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
